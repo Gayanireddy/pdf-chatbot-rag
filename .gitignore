@@ -1,0 +1,22 @@
+# Secrets
+.env
+
+# Virtual environment
+venv/
+
+# Generated vector index
+faiss_index/
+*.faiss
+*.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# GSD planning (local only)
+.planning
+
+new-project.md
+CLAUDE.md
